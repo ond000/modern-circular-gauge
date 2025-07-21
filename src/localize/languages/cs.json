@@ -1,0 +1,70 @@
+{
+  "editor": {
+    "min": "Minimum",
+    "max": "Maximum",
+    "needle": "Zobrazit jako ručičkový ukazatel",
+    "secondary": "Sekundární info",
+    "tertiary": "Terciální info",
+    "state_size": "Velikost stavu",
+    "show_gauge": "Viditelnost ukazatele",
+    "header_position": "Pozice hlavičky",
+    "show_header": "Zobrazit hlavičku",
+    "adaptive_icon_color": "Adaptivní barva ikony",
+    "icon_entity": "Entita ikony",
+    "adaptive_state_color": "Adaptivní barva stavu",
+    "show_unit": "Zobrazit jednotku",
+    "smooth_segments": "Hladké segmenty",
+    "segments": "Barvy segmentů",
+    "from": "Od",
+    "color": "Barva",
+    "label": "Popisek",
+    "switch_to_form": "Přepnout na formulář",
+    "switch_to_template": "Přepnout na Template",
+    "start_from_zero": "Začít od nuly",
+    "gauge_radius": "Radius ukazatele",
+    "width": "Šířka",
+    "opacity": "Neprůhlednost",
+    "gauge_foreground_style": "Styl popředí ukazatele",
+    "gauge_background_style": "Styl pozadí ukazatele",
+    "appearance": "Vzhled karty",
+    "badge_appearance": "Vzhled odznaku",
+    "state_text": "Text stavu",
+    "primary_entity_style": "Styl entity",
+    "secondary_entity_style": "Styl entity",
+    "tertiary_entity_style": "Styl entity",
+    "helper": {
+      "start_from_zero": "Ukazatel začíná od nuly místo od min.",
+      "primary_label": "Text zobrazený pod hlavním stavem, když je velikost sekundárního stavu nastavena na velkou",
+      "label": "Text zobrazený pod stavem",
+      "gauge_color": "Přijímá hex, rgb, CSS proměnné nebo \"adaptivní\" pro segmentovaný styl",
+      "icon_entity": "Vyberte entitu, kterou chcete použít pro výběr a vybarvení ikon",
+      "state_text": "Přepíše zobrazený stav bez přepsání dat měřidla, přijímá Template"
+    },
+    "header_position_options": {
+      "options": {
+        "top": "Nahoře",
+        "bottom": "Dole"
+      }
+    },
+    "icon_entity_options": {
+      "options": {
+        "primary": "Primární",
+        "secondary": "Sekundární",
+        "tertiary": "Terciální"
+      }
+    },
+    "show_gauge_options": {
+      "options": {
+        "none": "Žádný",
+        "inner": "Vnitřní měřidlo",
+        "outer": "Vnější měřidlo"
+      }
+    },
+    "state_size_options": {
+      "options": {
+        "small": "Malý",
+        "big": "Velký"
+      }
+    }
+  }
+}
