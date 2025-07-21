@@ -1,10 +1,12 @@
 import { HomeAssistant } from '../ha/types';
 import * as en from './languages/en.json';
 import * as pl from './languages/pl.json';
+import * as cs from './languages/cs.json';
 
 const languages: Record<string, unknown> = {
   en,
-  pl
+  pl,
+  cs
 }
 
 const DEFAULT_LANG = "en";
